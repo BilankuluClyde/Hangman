@@ -29,8 +29,6 @@ public enum ScreenSize {
             return new Dimension(gd.getWidth() / 3, gd.getHeight() / 3);
         }
     };
-
-
     public Dimension dim_Size() {
         return null;
     }
